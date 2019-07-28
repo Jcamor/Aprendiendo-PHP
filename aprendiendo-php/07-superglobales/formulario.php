@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Formulario en PHP</title>
+    <title>Formulario en PHP para el envio por POST y GET</title>
 </head>
 
 <body>
